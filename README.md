@@ -25,7 +25,7 @@
 
 * 📊 Focused on prediction systems, computer vision, and automation
 
-* 🎯 Goal: Become an AI Engineer / Software Developer
+* 🎯 Goal: Become an AI Engineer
 
 
 
