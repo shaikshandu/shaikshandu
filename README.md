@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**shaikshandu/shaikshandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shaik 👋
 
-Here are some ideas to get you started:
+## Tech Stack
+- HTML, CSS, JavaScript
+- MongoDB, SQL
+- MERN Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- Smart Campus Navigation System
+- AI Career Recommendation System
+
+## Connect with me
+- LinkedIn: link
+- GitHub: link
