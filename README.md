@@ -11,13 +11,6 @@
 <img src="./banner.svg" width="100%">
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&width=900&repeat=false&lines=👋+Hi,+I'm+Shaik+Sandhani" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=00F7FF&center=true&width=1200&repeat=false&lines=🎓+Fourth-year+AIML+student+at+Atria+Institute+of+Technology+(CGPA:+8.9);🚀+Passionate+about+building+real-world+AI+applications+and+future+prediction+systems;💻+Skilled+in+Python,+JavaScript,+SQL,+and+full-stack+ML+deployment" />
-</p>
 
 🎓 Fourth-year AIML student at **Atria Institute of Technology** (CGPA: 8.9)
 
