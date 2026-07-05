@@ -1,125 +1,112 @@
-# <p align="center">🚀 Shaik Sandhani | AI & ML Engineer</p>
-
 <p align="center">
   <img src="./banner.svg" alt="Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Shaik+Sandhani;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Building+Future+AI+Applications;💡+Aspiring+AI+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&repeat=false&lines=👋+Hi,+I'm+Shaik+Sandhani" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&repeat=false&lines=🎓+Fourth-Year+AIML+Student+at+Atria+Institute+of+Technology+(CGPA:+8.9);🚀+Passionate+about+building+real-world+AI+applications+and+future+prediction+systems;💻+Python+%7C+JavaScript+%7C+SQL+%7C+Full-Stack+ML+Deployment" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaikshandu&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🎓 About Me
+# 🚀 About Me
 
-🎓 **Fourth-Year Artificial Intelligence & Machine Learning Student**
+<details open>
+<summary><b>Click to know more about me</b></summary>
 
-🏫 **Atria Institute of Technology**
+<br>
 
-📈 **Current CGPA: 8.9**
+🤖 Interested in Artificial Intelligence & Machine Learning
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, and Generative AI**
+🌐 Love building real-world AI + Web integrated applications
 
-🚀 Interested in building **real-world AI applications, prediction systems, intelligent agents, and future technologies**
+📊 Focused on Prediction Systems, Computer Vision and Automation
 
-💡 Currently exploring:
+🎯 Goal: Become a Generative AI Engineer
 
-* Generative AI
-* Agentic AI
-* Computer Vision
-* AI Automation
-* Full-Stack AI Applications
-* Future Prediction Systems
+📚 Currently learning:
+- Generative AI
+- AI Agents
+- RAG Systems
+- LangChain
+- Computer Vision
 
----
-
-## 🚀 Career Goal
-
-> **"My goal is to become a world-class AI Engineer and build intelligent systems that solve real-world problems."**
+</details>
 
 ---
 
-## 💻 Tech Stack
+# 🛠️ Tech Stack
 
-### 🚀 Programming Languages
+### 💻 Languages & Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### ⚙️ Frameworks & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,git,github,vscode" />
-</p>
-
-### 🧠 Skills
-
-* Data Structures & Algorithms
-* Machine Learning Pipeline
-* Deep Learning
-* Computer Vision
-* Generative AI
-* AI Agents
-* Flask Deployment
-* Database Management
-* Full-Stack Development
-
----
-
-## 📊 GitHub Statistics
+### ⚙️ Tools & Technologies
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaikshandu&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikshandu&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=flask,git,github,vscode" />
 </p>
+
+### 📚 Concepts
+
+- Data Structures & Algorithms
+- Machine Learning Pipeline
+- Deep Learning
+- Computer Vision
+- Web Deployment with Flask
+- Generative AI
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikshandu&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shaikshandu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikshandu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌟 3D Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikshandu&theme=tokyonight&hide_border=true"/>
 </p>
 
-### Alternative 3D Contribution Animation
+---
 
-```markdown
-https://github.com/yoshi389111/github-profile-3d-contrib
-```
+# 🏆 GitHub Achievements
 
-This creates a beautiful **3D GitHub contribution graph animation**.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shaikshandu&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-## 🚀 Current Learning Journey
+# 📈 Contribution Graph
 
-```text
-AI/ML Fundamentals      ████████████████ 100%
-Deep Learning           ██████████████░░ 85%
-Computer Vision         ████████████░░░░ 75%
-Generative AI           ███████████░░░░░ 70%
-Agentic AI              █████████░░░░░░░ 55%
-MLOps & Deployment      ████████░░░░░░░░ 50%
-```
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikshandu&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -140,9 +127,5 @@ MLOps & Deployment      ████████░░░░░░░░ 50%
 ---
 
 <p align="center">
-
-### ⚡ "Building the Future with Artificial Intelligence"
-
-⭐ If you like my projects, don't forget to star them!
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
