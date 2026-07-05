@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="./banner.svg" alt="Banner" width="100%">
+</p>
 
 # 👋 Hi, I'm Shaik Sandhani
+
 
 
 
