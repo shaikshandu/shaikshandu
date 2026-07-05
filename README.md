@@ -13,14 +13,11 @@
 
 💻 Skilled in Python, JavaScript, SQL, and full-stack ML deployment
 
-
-
 <p align="center">
   <img src="./banner.svg" alt="Banner" width="100%">
 </p>
 
 ## 🚀 About Me
-
 
 
 * 🤖 Interested in Artificial Intelligence & Machine Learning
@@ -30,10 +27,6 @@
 * 📊 Focused on prediction systems, computer vision, and automation
 
 * 🎯 Goal: Become an AI Engineer
-
-
-
----
 <p align="center">
   <img src="./banner.svg" alt="Banner" width="100%">
 </p>
