@@ -18,6 +18,20 @@
 <p align="center">
   <img src="./banner.svg" alt="Banner" width="100%">
 </p>
+<details>
+  <summary><b>🚀 Click here to view About Me</b></summary>
+
+  <br>
+
+  🤖 Interested in Artificial Intelligence & Machine Learning
+
+  🌐 Love building real-world web + ML integrated applications
+
+  📊 Focused on prediction systems, computer vision, and automation
+
+  🎯 Goal: Become an AI Engineer
+
+</details>
 
 ## 🚀 About Me
 
