@@ -34,6 +34,9 @@
 
 
 ---
+<p align="center">
+  <img src="./banner.svg" alt="Banner" width="100%">
+</p>
 
 
 ## 🛠️ Tech Stack
