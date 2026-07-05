@@ -3,7 +3,7 @@
 
 
 
-🎓 Third-year AIML student at **Atria Institute of Technology** (CGPA: 8.9)
+🎓 Fourth-year AIML student at **Atria Institute of Technology** (CGPA: 8.9)
 
 🚀 Passionate about building real-world AI applications and future prediction systems
 
