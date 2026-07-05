@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Shaik+Sandhani;🎓+Fourth-Year+AIML+Student;🚀+Future+AI+Engineer;🤖+Generative+AI+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Shaik+Sandhani" />
 </p>
 
 
