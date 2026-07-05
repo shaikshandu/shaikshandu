@@ -7,7 +7,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1500&color=36BCF7&center=true&vCenter=true&width=1200&repeat=false&lines=🎓+Fourth-year+AIML+student+at+Atria+Institute+of+Technology+(CGPA:+8.9);🚀+Passionate+about+building+real-world+AI+applications+and+future+prediction+systems;💻+Skilled+in+Python,+JavaScript,+SQL,+and+full-stack+ML+deployment" />
+</p>
 
 🎓 Fourth-year AIML student at **Atria Institute of Technology** (CGPA: 8.9)
 
