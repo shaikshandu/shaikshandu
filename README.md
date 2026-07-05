@@ -165,6 +165,9 @@ AI Agents
 <a href="https://instagram.com/shaik_shandu/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
+<a href="https://shaik-dev.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </p>
 
